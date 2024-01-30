@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9014b9a.css",
+    "main.js": "/static/js/main.d8a9b7a4.js",
+    "static/js/787.6e56121d.chunk.js": "/static/js/787.6e56121d.chunk.js",
+    "static/media/kidzonepreview.png": "/static/media/kidzonepreview.b48dda8281057bac2ff3.png",
+    "static/media/treeskybackground.jpg": "/static/media/treeskybackground.77d620fb6cfb2b6e647e.jpg",
+    "static/media/logo2.jpg": "/static/media/logo2.824e3885a3be8db2e901.jpg",
+    "index.html": "/index.html",
+    "main.d9014b9a.css.map": "/static/css/main.d9014b9a.css.map",
+    "main.d8a9b7a4.js.map": "/static/js/main.d8a9b7a4.js.map",
+    "787.6e56121d.chunk.js.map": "/static/js/787.6e56121d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9014b9a.css",
+    "static/js/main.d8a9b7a4.js"
+  ]
+}
