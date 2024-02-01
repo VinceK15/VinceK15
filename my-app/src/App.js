@@ -5,9 +5,11 @@ import AboutMe from './aboutMe';
 import Projects from './projects';
 import { Route, BrowserRouter, Routes } from 'react-router-dom'
 
+//<BrowserRouter basename={process.env.PUBLIC_URL}> previously
+
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/VinceK15">
       <Routes>
         <Route path="/" element={<Homepage />}></Route>
         <Route path="/aboutme" element={<AboutMe />}></Route>
