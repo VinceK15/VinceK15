@@ -15,7 +15,7 @@ export default function Homepage() {
               transition={{ opacity: 0.3, y: 1.3 }}
             >
                 <div className="name_div">
-        <h1 className='myName'>Vincent Kuan <img className='logo' src={logo} /></h1>
+        <h1 className='myName'>Vincent Kuan Test<img className='logo' src={logo} /></h1>
         </div>
         <div className="links_div">
         <a href="./homepage" className="links">Home</a>
